@@ -12,7 +12,7 @@ Saddam Metaverse is a modern NextJS Landing Page with Framer Motion.
 * Tailwind CSS
 
 
-## Demo Video with CMS
+## Demo Video
 
 [](https://github.com/SHnice/saddam-metaverse/assets/108930470/37793e62-2fd1-4172-ba5b-5d2da415b126)
 
