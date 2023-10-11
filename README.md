@@ -1,7 +1,7 @@
 # A Modern NextJS 13 Website With Framer Motion & Tailwind CSS
 
                                                                                               
-### [Live Site: Saddam Blog](https://saddam-metaverse.vercel.app/)
+### [Live Site: Saddam Metaverse](https://saddam-metaverse.vercel.app/)
 
 ## Technologies
 
